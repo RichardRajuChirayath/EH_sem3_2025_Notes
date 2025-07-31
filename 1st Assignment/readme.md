@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>🛡️ ASSIGNMENT 20: PERSONAL SECURITY AUDIT USING SHODAN</h1>
+<h1>🛡️ ASSIGNMENT 20: Check Internet Exposure via Shodan</h1>
 <p><strong>Submitted by:</strong> Richard Raju<br />
 <strong>Date:</strong> 30/07/2025</p>
 
